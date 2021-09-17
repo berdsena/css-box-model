@@ -1,0 +1,74 @@
+html,
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+nav {
+background: hsl(0, 0%, 35%);
+height: 49px;
+}
+
+.sitename {
+    display: inline-block;
+    padding: 10px;
+    color: lightgrey;
+    font-size: 22px;
+}
+
+.menu-item {
+    padding: 10px;
+    color: lightgrey;
+}
+
+.sp {
+    background-color: white;
+    color: gray;
+    padding: 17px;
+}
+
+.carousel {
+    height: 200px;
+    background-color: lightgrey;
+}
+
+h1,
+p {
+    margin: 40px;
+    color: lightslategray;
+    text-align: center;
+}
+
+.container {
+    margin-bottom: 100px;
+    align-content: center;
+}
+
+.line-element {
+    display: inline-block;
+    background-color: lightgrey;
+    width: 33%;
+    height: 350px;
+}
+
+form {
+    padding-left: 40px;
+}
+
+h2,
+p {
+    color: rgb(141, 141, 141);
+    padding: 5px;
+}
+
+input,
+textarea {
+    display: block;
+    margin: 15px;
+    width: 90%;
+}
+
+.dialogbox {
+    height: 100px;
+    margin-bottom: 10%;
+}
